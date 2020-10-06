@@ -1,1 +1,1 @@
-# project
+Project for everything
